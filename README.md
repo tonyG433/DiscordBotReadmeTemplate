@@ -19,7 +19,7 @@
 
 
 # 🤖 Short description
-This bot is really cool would reccomend
+This bot is really cool would recommend
 
 # 💻 Setting the bot up
 
